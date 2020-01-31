@@ -3,7 +3,7 @@
 <img src="https://github.com/XJINE/Unity_FastStarGlow/blob/master/Screenshot.gif" width="100%" height="auto" />
 
 This is an implementation of Kawase's light-streak.
-This is a little faster than [standard starglow](https://github.com/XJINE/Unity_FastStarGlow).
+This is a little faster than [standard starglow](https://github.com/XJINE/Unity_StarGlow).
 However, these streaks always show in symmetry.
 
 - [Frame Buffer Postprocessing Effects in DOUBLE-S.T.E.A.L(Wreckless)](http://www.daionet.gr.jp/~masa/archives/GDC2003_DSTEAL.ppt)
